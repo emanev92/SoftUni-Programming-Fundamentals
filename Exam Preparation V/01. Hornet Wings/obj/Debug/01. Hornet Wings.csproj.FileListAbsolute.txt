@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\Exam Preparation V\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe.config
+D:\Visual Studio\Extended Group\Exam Preparation V\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe
+D:\Visual Studio\Extended Group\Exam Preparation V\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.pdb
+D:\Visual Studio\Extended Group\Exam Preparation V\01. Hornet Wings\obj\Debug\01. Hornet Wings.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\Exam Preparation V\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.exe
+D:\Visual Studio\Extended Group\Exam Preparation V\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.pdb

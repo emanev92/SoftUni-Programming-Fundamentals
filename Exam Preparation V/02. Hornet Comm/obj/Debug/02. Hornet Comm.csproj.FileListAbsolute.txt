@@ -1,0 +1,4 @@
+D:\Visual Studio\Extended Group\Exam Preparation V\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe.config
+D:\Visual Studio\Extended Group\Exam Preparation V\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.exe
+D:\Visual Studio\Extended Group\Exam Preparation V\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.pdb
+D:\Visual Studio\Extended Group\Exam Preparation V\02. Hornet Comm\obj\Debug\02. Hornet Comm.csprojResolveAssemblyReference.cache

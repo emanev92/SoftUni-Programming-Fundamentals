@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+D:\Visual Studio\Extended Group\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+D:\Visual Studio\Extended Group\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+D:\Visual Studio\Extended Group\Exam Preparation I\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\Exam Preparation I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+D:\Visual Studio\Extended Group\Exam Preparation I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\Exam Preparation III\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+D:\Visual Studio\Extended Group\Exam Preparation III\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+D:\Visual Studio\Extended Group\Exam Preparation III\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+D:\Visual Studio\Extended Group\Exam Preparation III\02. Command Interpreter\obj\Debug\02. Command Interpreter.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\Exam Preparation III\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+D:\Visual Studio\Extended Group\Exam Preparation III\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb

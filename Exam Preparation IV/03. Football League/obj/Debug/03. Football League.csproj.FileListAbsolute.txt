@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.exe.config
+D:\Visual Studio\Extended Group\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.exe
+D:\Visual Studio\Extended Group\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.pdb
+D:\Visual Studio\Extended Group\Exam Preparation IV\03. Football League\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\Exam Preparation IV\03. Football League\obj\Debug\_03.Football_League.exe
+D:\Visual Studio\Extended Group\Exam Preparation IV\03. Football League\obj\Debug\_03.Football_League.pdb

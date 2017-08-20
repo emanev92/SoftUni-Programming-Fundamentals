@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
+D:\Visual Studio\Extended Group\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
+D:\Visual Studio\Extended Group\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
+D:\Visual Studio\Extended Group\Exam Preparation IV\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\Exam Preparation IV\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
+D:\Visual Studio\Extended Group\Exam Preparation IV\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb
