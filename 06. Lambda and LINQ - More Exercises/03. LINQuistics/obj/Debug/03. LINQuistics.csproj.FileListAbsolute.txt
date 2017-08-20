@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - More Exercises\03. LINQuistics\bin\Debug\_03.LINQuistics.exe.config

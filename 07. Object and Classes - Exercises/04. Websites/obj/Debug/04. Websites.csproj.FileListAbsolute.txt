@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\04. Websites\bin\Debug\_04.Websites.exe.config
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\04. Websites\bin\Debug\_04.Websites.exe
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\04. Websites\bin\Debug\_04.Websites.pdb
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\04. Websites\obj\Debug\04. Websites.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\04. Websites\obj\Debug\_04.Websites.exe
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\04. Websites\obj\Debug\_04.Websites.pdb

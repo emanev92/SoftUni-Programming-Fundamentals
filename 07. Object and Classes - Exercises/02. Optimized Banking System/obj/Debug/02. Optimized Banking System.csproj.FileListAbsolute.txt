@@ -1,0 +1,12 @@
+D:\Visual Studio\Extended Group\01. Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.exe.config
+D:\Visual Studio\Extended Group\01. Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.exe
+D:\Visual Studio\Extended Group\01. Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.pdb
+D:\Visual Studio\Extended Group\01. Exercises\02. Optimized Banking System\obj\Debug\02. Optimized Banking System.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Exercises\02. Optimized Banking System\obj\Debug\_02.Optimized_Banking_System.exe
+D:\Visual Studio\Extended Group\01. Exercises\02. Optimized Banking System\obj\Debug\_02.Optimized_Banking_System.pdb
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.exe.config
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\02. Optimized Banking System\obj\Debug\_02.Optimized_Banking_System.exe
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\02. Optimized Banking System\obj\Debug\_02.Optimized_Banking_System.pdb
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.exe
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.pdb
+D:\Visual Studio\Extended Group\07. Object and Classes - Exercises\02. Optimized Banking System\obj\Debug\02. Optimized Banking System.csprojResolveAssemblyReference.cache

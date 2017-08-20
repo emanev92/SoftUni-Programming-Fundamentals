@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\03. Array and Lists Algorithms\06. Batteries\bin\Debug\_06.Batteries.exe.config
+D:\Visual Studio\Extended Group\03. Array and Lists Algorithms\06. Batteries\bin\Debug\_06.Batteries.exe
+D:\Visual Studio\Extended Group\03. Array and Lists Algorithms\06. Batteries\bin\Debug\_06.Batteries.pdb
+D:\Visual Studio\Extended Group\03. Array and Lists Algorithms\06. Batteries\obj\Debug\06. Batteries.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\03. Array and Lists Algorithms\06. Batteries\obj\Debug\_06.Batteries.exe
+D:\Visual Studio\Extended Group\03. Array and Lists Algorithms\06. Batteries\obj\Debug\_06.Batteries.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\03. Forum Topics\bin\Debug\_03.Forum_Topics.exe.config
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\03. Forum Topics\bin\Debug\_03.Forum_Topics.exe
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\03. Forum Topics\bin\Debug\_03.Forum_Topics.pdb
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\03. Forum Topics\obj\Debug\03. Forum Topics.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\03. Forum Topics\obj\Debug\_03.Forum_Topics.exe
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\03. Forum Topics\obj\Debug\_03.Forum_Topics.pdb

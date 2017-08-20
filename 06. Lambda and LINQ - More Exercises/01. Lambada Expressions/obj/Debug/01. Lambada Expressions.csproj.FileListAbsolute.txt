@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - More Exercises\01. Lambada Expressions\bin\Debug\_01.Lambada_Expressions.exe.config

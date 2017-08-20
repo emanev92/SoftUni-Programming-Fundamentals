@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - Exercises\04.  CottageScraper\bin\Debug\_04.CottageScraper.exe.config

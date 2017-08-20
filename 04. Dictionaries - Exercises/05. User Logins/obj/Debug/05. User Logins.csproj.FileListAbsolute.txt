@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\05. User Logins\bin\Debug\_05.User_Logins.exe.config
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\05. User Logins\bin\Debug\_05.User_Logins.exe
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\05. User Logins\bin\Debug\_05.User_Logins.pdb
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\05. User Logins\obj\Debug\05. User Logins.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\05. User Logins\obj\Debug\_05.User_Logins.exe
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\05. User Logins\obj\Debug\_05.User_Logins.pdb

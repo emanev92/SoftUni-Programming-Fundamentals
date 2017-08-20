@@ -1,0 +1,5 @@
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - Exercises\02. Default Values\bin\Debug\_02.Default_Values.exe.config
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - Exercises\02. Default Values\bin\Debug\_02.Default_Values.exe
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - Exercises\02. Default Values\bin\Debug\_02.Default_Values.pdb
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - Exercises\02. Default Values\obj\Debug\_02.Default_Values.exe
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - Exercises\02. Default Values\obj\Debug\_02.Default_Values.pdb

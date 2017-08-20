@@ -1,0 +1,3 @@
+D:\Visual Studio\Extended Group\01. Exercises\07. Object and Classes - Exercises\bin\Debug\_07.Object_and_Classes___Exercises.exe.config
+D:\Visual Studio\Extended Group\01. Exercises\07. Object and Classes - Exercises\obj\Debug\_07.Object_and_Classes___Exercises.exe
+D:\Visual Studio\Extended Group\01. Exercises\07. Object and Classes - Exercises\obj\Debug\_07.Object_and_Classes___Exercises.pdb

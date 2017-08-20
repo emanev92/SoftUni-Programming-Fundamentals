@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Serialize String", "01. Serialize String\01. Serialize String.csproj", "{A30FAAC9-2AC5-4278-B4DE-C15FB0075DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Stateless", "02. Stateless\02. Stateless.csproj", "{CBFE90AE-8C7A-4D1E-926E-5D87B892EA7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Pyramidic", "03. Pyramidic\03. Pyramidic.csproj", "{67FB61C3-E37D-40F1-9675-1D43E7B0DF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30FAAC9-2AC5-4278-B4DE-C15FB0075DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30FAAC9-2AC5-4278-B4DE-C15FB0075DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30FAAC9-2AC5-4278-B4DE-C15FB0075DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30FAAC9-2AC5-4278-B4DE-C15FB0075DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFE90AE-8C7A-4D1E-926E-5D87B892EA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFE90AE-8C7A-4D1E-926E-5D87B892EA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFE90AE-8C7A-4D1E-926E-5D87B892EA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFE90AE-8C7A-4D1E-926E-5D87B892EA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FB61C3-E37D-40F1-9675-1D43E7B0DF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FB61C3-E37D-40F1-9675-1D43E7B0DF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FB61C3-E37D-40F1-9675-1D43E7B0DF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FB61C3-E37D-40F1-9675-1D43E7B0DF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

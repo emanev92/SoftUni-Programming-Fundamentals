@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\01. Shellbound\bin\Debug\_01.Shellbound.exe.config
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\01. Shellbound\bin\Debug\_01.Shellbound.exe
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\01. Shellbound\bin\Debug\_01.Shellbound.pdb
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\01. Shellbound\obj\Debug\01. Shellbound.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\01. Shellbound\obj\Debug\_01.Shellbound.exe
+D:\Visual Studio\Extended Group\05. Advanced Collections - Exercise\01. Shellbound\obj\Debug\_01.Shellbound.pdb

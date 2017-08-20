@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\06. Lambda and LINQ - More Exercises\02. Ordered Banking System\bin\Debug\_02.Ordered_Banking_System.exe.config

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Lambada Expressions", "01. Lambada Expressions\01. Lambada Expressions.csproj", "{24AFAC2B-25A6-4998-8DAE-95FC6C88D02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ordered Banking System", "02. Ordered Banking System\02. Ordered Banking System.csproj", "{A746A3C2-BE2A-40E6-A064-1A826E8DA4A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. LINQuistics", "03. LINQuistics\03. LINQuistics.csproj", "{133761B8-E8F6-4239-9363-7F18711569BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24AFAC2B-25A6-4998-8DAE-95FC6C88D02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AFAC2B-25A6-4998-8DAE-95FC6C88D02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AFAC2B-25A6-4998-8DAE-95FC6C88D02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AFAC2B-25A6-4998-8DAE-95FC6C88D02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A746A3C2-BE2A-40E6-A064-1A826E8DA4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A746A3C2-BE2A-40E6-A064-1A826E8DA4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A746A3C2-BE2A-40E6-A064-1A826E8DA4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A746A3C2-BE2A-40E6-A064-1A826E8DA4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133761B8-E8F6-4239-9363-7F18711569BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133761B8-E8F6-4239-9363-7F18711569BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133761B8-E8F6-4239-9363-7F18711569BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133761B8-E8F6-4239-9363-7F18711569BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

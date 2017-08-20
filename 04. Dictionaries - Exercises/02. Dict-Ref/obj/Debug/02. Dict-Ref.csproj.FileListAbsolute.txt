@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe.config
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\02. Dict-Ref\bin\Debug\_02.Dict_Ref.pdb
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\02. Dict-Ref\obj\Debug\02. Dict-Ref.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\02. Dict-Ref\obj\Debug\_02.Dict_Ref.exe
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\02. Dict-Ref\obj\Debug\_02.Dict_Ref.pdb

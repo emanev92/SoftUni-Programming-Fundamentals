@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.exe.config
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.exe
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.pdb
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\06. Filter Base\obj\Debug\06. Filter Base.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\06. Filter Base\obj\Debug\_06.Filter_Base.exe
+D:\Visual Studio\Extended Group\04. Dictionaries - Exercises\06. Filter Base\obj\Debug\_06.Filter_Base.pdb

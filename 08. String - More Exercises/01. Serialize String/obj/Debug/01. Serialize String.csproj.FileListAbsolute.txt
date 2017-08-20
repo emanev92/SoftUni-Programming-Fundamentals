@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\08. String - More Exercises\01. Serialize String\bin\Debug\_01.Serialize_String.exe.config
+D:\Visual Studio\Extended Group\08. String - More Exercises\01. Serialize String\bin\Debug\_01.Serialize_String.exe
+D:\Visual Studio\Extended Group\08. String - More Exercises\01. Serialize String\bin\Debug\_01.Serialize_String.pdb
+D:\Visual Studio\Extended Group\08. String - More Exercises\01. Serialize String\obj\Debug\01. Serialize String.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\08. String - More Exercises\01. Serialize String\obj\Debug\_01.Serialize_String.exe
+D:\Visual Studio\Extended Group\08. String - More Exercises\01. Serialize String\obj\Debug\_01.Serialize_String.pdb

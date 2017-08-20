@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\05. Dictionaries - Lab\01. Count Reals Numbers\bin\Debug\_01.Count_Reals_Numbers.exe.config
+D:\Visual Studio\Extended Group\05. Dictionaries - Lab\01. Count Reals Numbers\bin\Debug\_01.Count_Reals_Numbers.exe
+D:\Visual Studio\Extended Group\05. Dictionaries - Lab\01. Count Reals Numbers\bin\Debug\_01.Count_Reals_Numbers.pdb
+D:\Visual Studio\Extended Group\05. Dictionaries - Lab\01. Count Reals Numbers\obj\Debug\01. Count Reals Numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\05. Dictionaries - Lab\01. Count Reals Numbers\obj\Debug\_01.Count_Reals_Numbers.exe
+D:\Visual Studio\Extended Group\05. Dictionaries - Lab\01. Count Reals Numbers\obj\Debug\_01.Count_Reals_Numbers.pdb
