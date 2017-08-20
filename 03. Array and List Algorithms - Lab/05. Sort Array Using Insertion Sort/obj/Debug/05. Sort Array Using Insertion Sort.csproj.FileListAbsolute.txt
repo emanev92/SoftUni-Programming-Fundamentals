@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\05. Sort Array Using Insertion Sort\bin\Debug\_05.Sort_Array_Using_Insertion_Sort.exe.config

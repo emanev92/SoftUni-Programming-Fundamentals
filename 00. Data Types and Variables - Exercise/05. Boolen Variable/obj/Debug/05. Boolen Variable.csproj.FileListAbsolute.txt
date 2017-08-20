@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\05. Boolen Variable\bin\Debug\_05.Boolen_Variable.exe.config
+D:\Visual Studio\ConsoleApplication1\05. Boolen Variable\bin\Debug\_05.Boolen_Variable.exe
+D:\Visual Studio\ConsoleApplication1\05. Boolen Variable\bin\Debug\_05.Boolen_Variable.pdb
+D:\Visual Studio\ConsoleApplication1\05. Boolen Variable\obj\Debug\_05.Boolen_Variable.exe
+D:\Visual Studio\ConsoleApplication1\05. Boolen Variable\obj\Debug\_05.Boolen_Variable.pdb

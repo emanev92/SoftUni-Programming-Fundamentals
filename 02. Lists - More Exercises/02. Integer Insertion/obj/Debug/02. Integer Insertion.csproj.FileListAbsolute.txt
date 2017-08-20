@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.exe.config
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.exe
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.pdb
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\02. Integer Insertion\obj\Debug\02. Integer Insertion.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\02. Integer Insertion\obj\Debug\_02.Integer_Insertion.exe
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\02. Integer Insertion\obj\Debug\_02.Integer_Insertion.pdb

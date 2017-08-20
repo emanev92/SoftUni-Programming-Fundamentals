@@ -1,0 +1,5 @@
+D:\Visual Studio\01. Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
+D:\Visual Studio\01. Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.pdb
+D:\Visual Studio\01. Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb

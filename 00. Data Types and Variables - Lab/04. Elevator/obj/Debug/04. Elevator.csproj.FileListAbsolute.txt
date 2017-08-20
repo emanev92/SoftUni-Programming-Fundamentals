@@ -1,0 +1,5 @@
+D:\Visual Studio\01. Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.exe.config
+D:\Visual Studio\01. Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.pdb
+D:\Visual Studio\01. Data Types and Variables - Lab\04. Elevator\obj\Debug\_04.Elevator.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\04. Elevator\obj\Debug\_04.Elevator.pdb

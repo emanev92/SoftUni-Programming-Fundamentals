@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\01. Largest Element in Array\bin\Debug\_01.Largest_Element_in_Array.exe.config
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\01. Largest Element in Array\bin\Debug\_01.Largest_Element_in_Array.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\01. Largest Element in Array\bin\Debug\_01.Largest_Element_in_Array.pdb
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\01. Largest Element in Array\obj\Debug\01. Largest Element in Array.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\01. Largest Element in Array\obj\Debug\_01.Largest_Element_in_Array.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\01. Largest Element in Array\obj\Debug\_01.Largest_Element_in_Array.pdb

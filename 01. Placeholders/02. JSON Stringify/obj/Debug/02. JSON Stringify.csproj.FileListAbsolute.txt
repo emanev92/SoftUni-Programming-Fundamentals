@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\01. Placeholders\02. JSON Stringify\bin\Debug\_02.JSON_Stringify.exe.config
+D:\Visual Studio\Extended Group\01. Placeholders\02. JSON Stringify\bin\Debug\_02.JSON_Stringify.exe
+D:\Visual Studio\Extended Group\01. Placeholders\02. JSON Stringify\bin\Debug\_02.JSON_Stringify.pdb
+D:\Visual Studio\Extended Group\01. Placeholders\02. JSON Stringify\obj\Debug\02. JSON Stringify.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Placeholders\02. JSON Stringify\obj\Debug\_02.JSON_Stringify.exe
+D:\Visual Studio\Extended Group\01. Placeholders\02. JSON Stringify\obj\Debug\_02.JSON_Stringify.pdb

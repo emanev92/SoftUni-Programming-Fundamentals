@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+D:\Visual Studio\ConsoleApplication1\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+D:\Visual Studio\ConsoleApplication1\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+D:\Visual Studio\ConsoleApplication1\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+D:\Visual Studio\ConsoleApplication1\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

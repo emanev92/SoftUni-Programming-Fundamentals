@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Track Downloader\bin\Debug\_02.Track_Downloader.exe.config
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Track Downloader\bin\Debug\_02.Track_Downloader.exe
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Track Downloader\bin\Debug\_02.Track_Downloader.pdb
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Track Downloader\obj\Debug\02. Track Downloader.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Track Downloader\obj\Debug\_02.Track_Downloader.exe
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Track Downloader\obj\Debug\_02.Track_Downloader.pdb

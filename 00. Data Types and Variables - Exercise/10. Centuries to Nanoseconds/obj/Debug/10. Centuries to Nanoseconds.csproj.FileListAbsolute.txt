@@ -1,0 +1,6 @@
+D:\Visual Studio\ConsoleApplication1\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+D:\Visual Studio\ConsoleApplication1\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+D:\Visual Studio\ConsoleApplication1\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+D:\Visual Studio\ConsoleApplication1\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+D:\Visual Studio\ConsoleApplication1\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+D:\Visual Studio\ConsoleApplication1\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

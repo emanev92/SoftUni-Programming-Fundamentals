@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+D:\Visual Studio\ConsoleApplication1\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+D:\Visual Studio\ConsoleApplication1\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+D:\Visual Studio\ConsoleApplication1\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+D:\Visual Studio\ConsoleApplication1\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

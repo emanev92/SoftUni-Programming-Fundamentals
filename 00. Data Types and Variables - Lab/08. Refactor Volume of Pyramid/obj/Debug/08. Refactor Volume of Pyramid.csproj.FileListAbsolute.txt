@@ -1,0 +1,5 @@
+D:\Visual Studio\01. Data Types and Variables - Lab\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe.config
+D:\Visual Studio\01. Data Types and Variables - Lab\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.pdb
+D:\Visual Studio\01. Data Types and Variables - Lab\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.pdb

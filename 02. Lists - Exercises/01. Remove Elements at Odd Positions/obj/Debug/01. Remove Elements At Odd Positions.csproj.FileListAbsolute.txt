@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Lists - Exercisses\bin\Debug\_02.Lists___Exercisses.exe.config
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Lists - Exercisses\bin\Debug\_02.Lists___Exercisses.exe
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Lists - Exercisses\bin\Debug\_02.Lists___Exercisses.pdb
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Lists - Exercisses\obj\Debug\01. Remove Elements At Odd Positions.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Lists - Exercisses\obj\Debug\_02.Lists___Exercisses.exe
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\02. Lists - Exercisses\obj\Debug\_02.Lists___Exercisses.pdb

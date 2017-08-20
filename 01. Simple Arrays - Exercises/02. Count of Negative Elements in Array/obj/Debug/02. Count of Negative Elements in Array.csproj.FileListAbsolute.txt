@@ -1,0 +1,5 @@
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\02. Count of Negative Elements in Array\bin\Debug\_02.Count_of_Negative_Elements_in_Array.exe.config
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\02. Count of Negative Elements in Array\bin\Debug\_02.Count_of_Negative_Elements_in_Array.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\02. Count of Negative Elements in Array\bin\Debug\_02.Count_of_Negative_Elements_in_Array.pdb
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\02. Count of Negative Elements in Array\obj\Debug\_02.Count_of_Negative_Elements_in_Array.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\02. Count of Negative Elements in Array\obj\Debug\_02.Count_of_Negative_Elements_in_Array.pdb

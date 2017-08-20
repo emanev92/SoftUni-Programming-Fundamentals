@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\03. Reverse Array In-place\bin\Debug\_03.Reverse_Array_In_place.exe.config
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\03. Reverse Array In-place\bin\Debug\_03.Reverse_Array_In_place.exe
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\03. Reverse Array In-place\bin\Debug\_03.Reverse_Array_In_place.pdb
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\03. Reverse Array In-place\obj\Debug\03. Reverse Array In-place.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\03. Reverse Array In-place\obj\Debug\_03.Reverse_Array_In_place.exe
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\03. Reverse Array In-place\obj\Debug\_03.Reverse_Array_In_place.pdb

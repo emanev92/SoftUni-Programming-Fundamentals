@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+D:\Visual Studio\ConsoleApplication1\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+D:\Visual Studio\ConsoleApplication1\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+D:\Visual Studio\ConsoleApplication1\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+D:\Visual Studio\ConsoleApplication1\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

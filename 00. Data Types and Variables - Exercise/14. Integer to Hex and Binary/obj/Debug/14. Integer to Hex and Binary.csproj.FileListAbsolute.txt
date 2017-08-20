@@ -1,0 +1,1 @@
+D:\Visual Studio\ConsoleApplication1\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config

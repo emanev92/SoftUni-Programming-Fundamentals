@@ -1,0 +1,6 @@
+D:\Visual Studio\01. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+D:\Visual Studio\01. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+D:\Visual Studio\01. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\01. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

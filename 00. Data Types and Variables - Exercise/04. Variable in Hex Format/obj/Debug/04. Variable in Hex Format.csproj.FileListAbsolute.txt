@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+D:\Visual Studio\ConsoleApplication1\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+D:\Visual Studio\ConsoleApplication1\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+D:\Visual Studio\ConsoleApplication1\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+D:\Visual Studio\ConsoleApplication1\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

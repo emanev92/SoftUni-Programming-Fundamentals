@@ -1,0 +1,5 @@
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.exe.config
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.exe
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.pdb
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\04. Flip List Sides\obj\Debug\_04.Flip_List_Sides.exe
+D:\Visual Studio\Extended Group\01. Remove Elements At Odd Positions\04. Flip List Sides\obj\Debug\_04.Flip_List_Sides.pdb

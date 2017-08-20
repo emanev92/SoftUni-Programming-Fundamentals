@@ -1,0 +1,5 @@
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\05. Increasing Sequence of Elements\bin\Debug\_05.Increasing_Sequence_of_Elements.exe.config
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\05. Increasing Sequence of Elements\bin\Debug\_05.Increasing_Sequence_of_Elements.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\05. Increasing Sequence of Elements\bin\Debug\_05.Increasing_Sequence_of_Elements.pdb
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\05. Increasing Sequence of Elements\obj\Debug\_05.Increasing_Sequence_of_Elements.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\05. Increasing Sequence of Elements\obj\Debug\_05.Increasing_Sequence_of_Elements.pdb

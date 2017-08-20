@@ -1,0 +1,6 @@
+D:\Visual Studio\01. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe.config
+D:\Visual Studio\01. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.pdb
+D:\Visual Studio\01. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\01. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.pdb

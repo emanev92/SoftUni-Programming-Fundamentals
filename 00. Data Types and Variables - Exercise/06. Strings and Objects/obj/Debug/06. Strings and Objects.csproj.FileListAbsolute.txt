@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+D:\Visual Studio\ConsoleApplication1\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+D:\Visual Studio\ConsoleApplication1\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+D:\Visual Studio\ConsoleApplication1\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+D:\Visual Studio\ConsoleApplication1\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

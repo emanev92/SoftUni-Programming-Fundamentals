@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\01. Placeholders\08. String - Exercises\bin\Debug\_08.String___Exercises.exe.config
+D:\Visual Studio\Extended Group\01. Placeholders\08. String - Exercises\bin\Debug\_08.String___Exercises.exe
+D:\Visual Studio\Extended Group\01. Placeholders\08. String - Exercises\bin\Debug\_08.String___Exercises.pdb
+D:\Visual Studio\Extended Group\01. Placeholders\08. String - Exercises\obj\Debug\01. Placeholders.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Placeholders\08. String - Exercises\obj\Debug\_08.String___Exercises.exe
+D:\Visual Studio\Extended Group\01. Placeholders\08. String - Exercises\obj\Debug\_08.String___Exercises.pdb

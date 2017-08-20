@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\03. Practice Chars and Strings\bin\Debug\_03.Practice_Chars_and_Strings.exe.config
+D:\Visual Studio\ConsoleApplication1\03. Practice Chars and Strings\bin\Debug\_03.Practice_Chars_and_Strings.exe
+D:\Visual Studio\ConsoleApplication1\03. Practice Chars and Strings\bin\Debug\_03.Practice_Chars_and_Strings.pdb
+D:\Visual Studio\ConsoleApplication1\03. Practice Chars and Strings\obj\Debug\_03.Practice_Chars_and_Strings.exe
+D:\Visual Studio\ConsoleApplication1\03. Practice Chars and Strings\obj\Debug\_03.Practice_Chars_and_Strings.pdb

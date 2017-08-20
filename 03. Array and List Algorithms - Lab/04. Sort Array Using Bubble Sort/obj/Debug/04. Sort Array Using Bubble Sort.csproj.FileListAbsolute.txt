@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\03. Array and List Algorithms - Lab\04. Sort Array Using Bubble Sort\bin\Debug\_04.Sort_Array_Using_Bubble_Sort.exe.config

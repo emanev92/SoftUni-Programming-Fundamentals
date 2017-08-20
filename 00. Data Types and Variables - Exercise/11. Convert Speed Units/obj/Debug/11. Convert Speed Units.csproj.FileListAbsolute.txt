@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+D:\Visual Studio\ConsoleApplication1\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+D:\Visual Studio\ConsoleApplication1\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+D:\Visual Studio\ConsoleApplication1\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+D:\Visual Studio\ConsoleApplication1\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb

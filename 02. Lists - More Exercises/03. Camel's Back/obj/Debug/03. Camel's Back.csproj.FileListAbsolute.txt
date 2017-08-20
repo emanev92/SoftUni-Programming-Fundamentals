@@ -1,0 +1,5 @@
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\03. Camel's Back\bin\Debug\_03.Camel_s_Back.exe.config
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\03. Camel's Back\bin\Debug\_03.Camel_s_Back.exe
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\03. Camel's Back\bin\Debug\_03.Camel_s_Back.pdb
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\03. Camel's Back\obj\Debug\_03.Camel_s_Back.exe
+D:\Visual Studio\Extended Group\02. Lists - More Exercises\03. Camel's Back\obj\Debug\_03.Camel_s_Back.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\ConsoleApplication1\09. Reversed Chars\bin\Debug\_09.Reversed_Chars.exe.config
+D:\Visual Studio\ConsoleApplication1\09. Reversed Chars\bin\Debug\_09.Reversed_Chars.exe
+D:\Visual Studio\ConsoleApplication1\09. Reversed Chars\bin\Debug\_09.Reversed_Chars.pdb
+D:\Visual Studio\ConsoleApplication1\09. Reversed Chars\obj\Debug\_09.Reversed_Chars.exe
+D:\Visual Studio\ConsoleApplication1\09. Reversed Chars\obj\Debug\_09.Reversed_Chars.pdb

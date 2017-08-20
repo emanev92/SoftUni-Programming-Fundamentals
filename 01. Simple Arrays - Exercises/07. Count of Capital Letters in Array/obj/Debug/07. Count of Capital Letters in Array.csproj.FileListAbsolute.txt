@@ -1,0 +1,1 @@
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\07. Count of Capital Letters in Array\bin\Debug\_07.Count_of_Capital_Letters_in_Array.exe.config

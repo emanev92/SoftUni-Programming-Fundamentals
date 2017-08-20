@@ -1,0 +1,5 @@
+D:\Visual Studio\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+D:\Visual Studio\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
+D:\Visual Studio\01. Data Types and Variables - Lab\07. Greeting\obj\Debug\_07.Greeting.exe
+D:\Visual Studio\01. Data Types and Variables - Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

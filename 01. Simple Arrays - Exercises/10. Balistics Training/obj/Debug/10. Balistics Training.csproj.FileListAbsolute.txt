@@ -1,0 +1,6 @@
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\10. Balistics Training\bin\Debug\_10.Balistics_Training.exe.config
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\10. Balistics Training\bin\Debug\_10.Balistics_Training.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\10. Balistics Training\bin\Debug\_10.Balistics_Training.pdb
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\10. Balistics Training\obj\Debug\10. Balistics Training.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\10. Balistics Training\obj\Debug\_10.Balistics_Training.exe
+D:\Visual Studio\Extended Group\01. Simple Arrays - Exercises\10. Balistics Training\obj\Debug\_10.Balistics_Training.pdb
